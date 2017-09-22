@@ -1,4 +1,4 @@
-package htaccess_parser
+package main
 
 import (
 	"bufio"

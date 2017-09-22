@@ -1,9 +1,9 @@
-package htaccess_parser
+package main
 
 import "strings"
 
 func main() {
-	query := "select * from my_table"
+	query := "select id, key, value from my_table"
 	println(query)
 	r := strings.NewReader(query)
 
