@@ -14,3 +14,7 @@
 .glide/
 .idea/
 /.gitignore
+main.go
+parser.go
+scanner.go
+token.go
